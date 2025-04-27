@@ -16,7 +16,7 @@
 -  **Localized Expertise**  
   Offers insights based on modern Arab legislation and traditional Sharia principles.
 
-- 🛡 **Reliable & Secure**  
+-  **Reliable & Secure**  
   It focuses on providing trustworthy information while reminding users that it is not a substitute for a licensed lawyer.
 
 ## How to Use
